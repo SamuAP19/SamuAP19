@@ -13,7 +13,7 @@
 
 ### 🧭 About me
 - 🎓 **BSc in Data Science for Responsible Business** — a joint program between **emlyon business school** and **École Centrale de Lyon** (expected 2029)
-- 🇨🇴 From Bucaramanga, Colombia — now studying in France
+- 🌎 From Bucaramanga, Colombia — now studying in France
 - 📈 Curious about markets and finance — which is partly why my ML project uses stock data
 - 🗣️ Spanish (native) · English (C1) · French (B1)
 
