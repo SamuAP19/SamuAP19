@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Samuel Alvarez 👋</h1>
 <p align="center">
-  🎸 Guitarist on weekends, data scientist on weekdays.<br>
+  Lover of sushi, Spotify playlists, and anything that tastes better than it sounds.<br>
   <i>Half math, half business — always asking what the numbers aren't saying yet.</i>
 </p>
 
@@ -14,7 +14,7 @@
 ### 🧭 About me
 - 🎓 **BSc in Data Science for Responsible Business** — a joint program between **emlyon business school** and **École Centrale de Lyon** (expected 2029)
 - 🌎 From Bucaramanga, Colombia — now studying in France
-- 📈 Curious about markets and finance — which is partly why my ML project uses stock data
+- 📈 Curious about markets and finance
 - 🗣️ Spanish (native) · English (C1) · French (B1)
 
 ### 🧠 What I've been building skills in
