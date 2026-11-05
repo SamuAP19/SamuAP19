@@ -33,6 +33,8 @@
 | Project | In plain words | Tech |
 |---|---|---|
 | [**NASDAQ-100 Prediction**](https://github.com/SamuAP19/NASDAQ_Prediction-Project) 🚧 | Can what happens in earlier trading sessions tell us how Wall Street will move? A team ML project predicting the NASDAQ-100's return during the New York session from earlier sessions and other features. *Work in progress.* | Python · pandas · scikit-learn |
+| [**Road Accidents in France**](https://github.com/EnzoCentrale/EDA-FinalProject-Y.1) | When and why are road accidents more serious? A team analysis of 270k official French accident records, comparing Lyon and Paris (time of day, seatbelt use, vehicles). | Python · pandas · seaborn · SciPy |
+| [**Everthread**](https://github.com/effaceur67/Everthread) | A slow-fashion online store built by a team of four. My part: an AI tool that tells whether a clothing brand is fast fashion from a photo, plus the brands and mission pages. | HTML · CSS · JavaScript · TensorFlow.js |
 | [**Spotify Stats Analysis**](https://github.com/SamuAP19/spotify-popularity-analysis) | What makes a song popular? Statistical analysis of a Spotify dataset. | Python · statistics · Jupyter |
 | [**Huffman Coding**](https://github.com/SamuAP19/huffman-compression) | How does a ZIP file shrink your data? My own implementation of the classic compression algorithm. | Python · algorithms |
 
@@ -45,6 +47,7 @@
   <img src="https://img.shields.io/badge/Matplotlib%20%26%20Seaborn-11557C?style=flat-square">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML%20%C2%B7%20CSS%20%C2%B7%20JS-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
   <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white">
 </p>
